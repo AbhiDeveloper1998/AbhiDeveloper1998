@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-AbhishekHingale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-hingale-b17b14195/)](www.linkedin.com/in/abhishek-hingale-b17b14195/)
-[![Website Badge](https://img.shields.io/badge/WebSite-AbhishekHingale-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-AbhishekHingale-green)](https://abhsoft.tech)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-AbhishekHingale-yellow)]([[https://stackoverflow.com/users/3687251/aakash-](https://stackoverflow.com/users/16664495/abhishek-hingale)](https://stackoverflow.com/users/16664495/abhishek-hingale))
 
 I'm
